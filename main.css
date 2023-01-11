@@ -1,0 +1,35 @@
+body {
+  background-image: url(./Stele.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.header {
+  margin-top: 30px;
+  color: #ffffff;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  column-gap: 400px;
+}
+
+.left {
+  margin-left: 50px;
+  margin-top: 350px;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.right {
+  margin-right: 25px;
+  margin-top: 780px;
+  font-size: 50px;
+  color: #ffffff;
+}
